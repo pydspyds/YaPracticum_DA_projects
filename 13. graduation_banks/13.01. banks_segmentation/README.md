@@ -4,4 +4,4 @@
 Проанализировать клиентов регионального банка и выделить сегменты клиентов, которые склонны уходить из банка.
 
 ## Библиотеки и инструменты:   
-`pandas`,  `numpy`, `scipy`, `math`, `matplotlib`, `seaborn`
+`python`, `pandas`,  `numpy`, `scipy`, `math`, `matplotlib`, `seaborn`

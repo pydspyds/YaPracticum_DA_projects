@@ -12,4 +12,4 @@
 * цели кредита.
 
 ## Библиотеки и инструменты:   
-`pandas`, `seaborn`
+`python`, `pandas`, `seaborn`

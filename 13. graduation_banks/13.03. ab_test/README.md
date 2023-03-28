@@ -4,4 +4,4 @@
 Исследовать корректность и провести оценку результатов A/B-теста.
 
 ## Библиотеки и инструменты:   
-`pandas`,  `numpy`, `scipy`, `math`, `matplotlib`, `seaborn`, `plotly`
+`python`, `pandas`,  `numpy`, `scipy`, `math`, `matplotlib`, `seaborn`, `plotly`

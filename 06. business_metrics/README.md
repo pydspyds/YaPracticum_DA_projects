@@ -4,4 +4,4 @@
 Разобраться в причинах убыточности рекламной компании развлекательного приложения Procrastinate Pro+ и помочь компании выйти в плюс.
 
 ## Библиотеки и инструменты:   
-`pandas`,  `numpy`, `datetime`, `matplotlib`, `seaborn`
+`python`, `pandas`,  `numpy`, `datetime`, `matplotlib`, `seaborn`

@@ -13,4 +13,4 @@
 3. Продолжить тест.
 
 ## Библиотеки и инструменты:   
-`pandas`, `numpy`, `scipy`, `datetime`,  `matplotlib`
+`python`, `pandas`, `numpy`, `scipy`, `datetime`,  `matplotlib`

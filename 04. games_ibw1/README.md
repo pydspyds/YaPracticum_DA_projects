@@ -4,4 +4,4 @@
 Выявить потенциально популярный продукт и сделать прогноз по продажам для планирования рекламной кампании
 
 ## Библиотеки и инструменты:   
-`pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `plotly`
+`python`, `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `plotly`
