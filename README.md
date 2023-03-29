@@ -116,4 +116,4 @@
 `python`, `pandas`,  `numpy`, `scipy`, `math`, `matplotlib`, `seaborn`, `plotly`
 
 ## Сертификат
-![-](https://github.com/pydspyds/YaPracticum_DA_projects/blob/89e419b174edcd681b638b58ae9694b3fc6a312c/misc/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20%D0%AF%D0%9F%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0.pdf)
+![-](https://github.com/pydspyds/YaPracticum_DA_projects/blob/bbe04f086448c1f51fe5fa7a9c8c34192d149983/misc/diplom2.png)
