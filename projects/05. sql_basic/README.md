@@ -13,11 +13,11 @@
 */
 
 SELECT
-	count(status)
+count(status)
 FROM
-	company
+company
 WHERE
-	status = 'closed';
+status = 'closed';
 
 /* 
 2. Отобразите количество привлечённых средств для новостных компаний США. 
