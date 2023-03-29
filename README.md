@@ -115,5 +115,6 @@
 **Инструменты и библиотеки**   
 `python`, `pandas`,  `numpy`, `scipy`, `math`, `matplotlib`, `seaborn`, `plotly`
 
+---
 ## Сертификат
 ![-](https://github.com/pydspyds/YaPracticum_DA_projects/blob/bbe04f086448c1f51fe5fa7a9c8c34192d149983/misc/diplom2.png)
