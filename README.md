@@ -107,7 +107,7 @@
 **Инструменты и библиотеки**   
 `python`, `pandas`,  `numpy`, `scipy`, `math`, `matplotlib`, `seaborn`
 
-### [13.3 Оценка результатов A/B тестирования](https://github.com/pydspyds/YaPracticum_DA_projects/blob/559507dd8c27871ef287f0636097517b5ec17fba/projects/13.%20bank_graduation/13.03.%20ab_test/ab-tests_grad_GH.ipynb)
+### 13.3 [Оценка результатов A/B тестирования](https://github.com/pydspyds/YaPracticum_DA_projects/blob/559507dd8c27871ef287f0636097517b5ec17fba/projects/13.%20bank_graduation/13.03.%20ab_test/ab-tests_grad_GH.ipynb)
 
 **Цель**   
 Оценить корректность A/B-теста и провести оценку его результатов.
