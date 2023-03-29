@@ -64,7 +64,7 @@
 **Инструменты и библиотеки**   
 `python`, `pandas`,  `numpy`, `datetime`, `matplotlib`, `seaborn`
 
-### 7. Продвинутый SQL: [1-я часть](https://github.com/pydspyds/YaPracticum_DA_projects/blob/bf9969d0df07d5a7c7319aeb3ce897ad36394d9d/projects/07.%20sql_advanced/README.md)
+### 7. [Продвинутый SQL](https://github.com/pydspyds/YaPracticum_DA_projects/blob/bf9969d0df07d5a7c7319aeb3ce897ad36394d9d/projects/07.%20sql_advanced/README.md)
 
 **Цель**   
 Произвести выгрузки из базы данных Stackoverflow с помощью SQL
