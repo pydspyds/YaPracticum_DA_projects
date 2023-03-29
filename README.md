@@ -48,7 +48,7 @@
 **Инструменты и библиотеки**   
 `python`, `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`, `plotly`
 
-### 5. [Базовый SQL](https://github.com/pydspyds/YaPracticum_DA_projects/blob/559507dd8c27871ef287f0636097517b5ec17fba/projects/05.%20sql_basic/SQL_basic_project.sql)
+### 5. [Базовый SQL](https://github.com/pydspyds/YaPracticum_DA_projects/blob/bf9969d0df07d5a7c7319aeb3ce897ad36394d9d/projects/05.%20sql_basic/README.md)
 
 **Цель**   
 Произвести выгрузки данных венчурных фондов с помощью SQL
@@ -64,7 +64,7 @@
 **Инструменты и библиотеки**   
 `python`, `pandas`,  `numpy`, `datetime`, `matplotlib`, `seaborn`
 
-### 7. Продвинутый SQL: [1-я часть](https://github.com/pydspyds/YaPracticum_DA_projects/blob/559507dd8c27871ef287f0636097517b5ec17fba/projects/07.%20sql_advanced/sql_adv_part1.sql), [2-я часть](https://github.com/pydspyds/YaPracticum_DA_projects/blob/559507dd8c27871ef287f0636097517b5ec17fba/projects/07.%20sql_advanced/sql_adv_part2.sql)
+### 7. Продвинутый SQL: [1-я часть](https://github.com/pydspyds/YaPracticum_DA_projects/blob/bf9969d0df07d5a7c7319aeb3ce897ad36394d9d/projects/07.%20sql_advanced/README.md)
 
 **Цель**   
 Произвести выгрузки из базы данных Stackoverflow с помощью SQL
